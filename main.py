@@ -45,7 +45,7 @@ def start_training(char_name, char_class):
         print(f'{char_name}, ты Воитель — отличный боец ближнего боя.')
     if char_class == 'mage':
         print(f'{char_name},'
-            f'ты Маг — превосходный укротитель стихий.')
+              f'ты Маг — превосходный укротитель стихий.')
     if char_class == 'healer':
         print(f'{char_name}, ты Лекарь — чародей, способный исцелять раны.')
     print('Потренируйся управлять своими навыками.')
